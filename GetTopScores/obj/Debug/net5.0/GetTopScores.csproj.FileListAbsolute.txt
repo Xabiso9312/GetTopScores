@@ -1,0 +1,16 @@
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\GetTopScores.exe
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\GetTopScores.deps.json
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\GetTopScores.runtimeconfig.json
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\GetTopScores.runtimeconfig.dev.json
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\GetTopScores.dll
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\ref\GetTopScores.dll
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\bin\Debug\net5.0\GetTopScores.pdb
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.csproj.AssemblyReference.cache
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.AssemblyInfoInputs.cache
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.AssemblyInfo.cs
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.csproj.CoreCompileInputs.cache
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.dll
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\ref\GetTopScores.dll
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.pdb
+C:\Users\X475148\Downloads\GetTopScores\GetTopScores\obj\Debug\net5.0\GetTopScores.genruntimeconfig.cache

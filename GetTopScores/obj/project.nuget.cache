@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFDnmClrCCLTUcBVdq24hnAbEfpQYa1vzuQXw7fotiB+eZ8NUWOwZsb6k/iUA8gTo9xdx4lIE3umwkBiO/c9hQ==",
+  "dgSpecHash": "0GbEOGkCgnQYZlrFctgu3rPMVBQXAcpG05k2tvKHt0je6N6PCXmONtnjgrKT+D4rKcDPvZXN3CbGq+ZjcPjBzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\X475148\\Downloads\\GetTopScores\\GetTopScores\\GetTopScores.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\X475148\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
